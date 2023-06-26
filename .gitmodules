@@ -1,0 +1,6 @@
+[submodule "frontend-angular"]
+	path = frontend-angular
+	url = https://github.com/zafrirdotan/frontend-angular.git/
+[submodule "backend-nest"]
+	path = backend-nest
+	url = https://github.com/zafrirdotan/backend-nest.git/
