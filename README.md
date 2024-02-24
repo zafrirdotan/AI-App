@@ -21,15 +21,17 @@ Before you begin, ensure you have met the following requirements:
 
 ## Getting Started
 
+1. Clone the repository to your local machine.
+   git clone --recurse-submodules https://github.com/zafrirdotan/AI-App.git
+
 ### Setting Up the Backend (Nest.js)
 
-1. Clone the repository to your local machine.
-2. Navigate to the backend directory: `cd backend-nest`
-3. Install the dependencies: `npm install`
-4. Create a `.env` file and add your OpenAI API key:
+1. Navigate to the backend directory: `cd backend-nest`
+2. Install the dependencies: `npm install`
+3. Create a `.env` file and add your OpenAI API key:
    OPENAI_API_KEY=your_openai_api_key_here
 
-5. Start the backend server: `npm run start`
+4. Start the backend server: `npm run start`
 
 ### Setting Up the Frontend (Angular)
 
