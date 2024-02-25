@@ -30,6 +30,7 @@ Before you begin, ensure you have met the following requirements:
 2. Install the dependencies: `npm install`
 3. Create a `.env` file and add your OpenAI API key:
    OPENAI_API_KEY=your_openai_api_key_here
+   CORS_ORIGIN = http://localhost:4200
 
 4. Start the backend server: `npm run start`
 
