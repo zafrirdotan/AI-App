@@ -15,8 +15,8 @@ This project is an AI application that leverages the power of Nest.js for the ba
 
 Before you begin, ensure you have met the following requirements:
 
-- Node.js (14.x or later)
-- Angular CLI (11.x or later)
+- Node.js (20.x or later)
+- Angular CLI (16.0.3 or later)
 - An active OpenAI API key
 
 ## Getting Started
